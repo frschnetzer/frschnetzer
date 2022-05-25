@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @frschnetzer
-<!---
-frschnetzer/frschnetzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-profile-trophy.vercel.app/?username=frschnetzer&row=1&column=9&theme=juicyfresh&no-frame=true%22"/>
