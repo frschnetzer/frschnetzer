@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @frschnetzer 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frschnetzer&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frschnetzer&hide_border=true&count_private=true&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frschnetzer&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frschnetzer&hide_border=true&count_private=true&show_icons=true&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frschnetzer&theme=dracula&hide_border=true)](https://github.com/frschnetzer/github-readme-stats)
+
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=frschnetzer&row=1&column=9&theme=juicyfresh&no-frame=true%22"/>
